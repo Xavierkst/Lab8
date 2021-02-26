@@ -1,4 +1,8 @@
 # Lab8
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+## Name: Kai Tan
+## PID: A15719031
+[Part1 tests](tests_passed/test-passed-1.png)
+[Part2 tests -- img1](tests_passed/test-passed-2_(pt1).png)
+[Part2 tests -- img2](tests_passed/test-passed-2_(pt2).png)
+[Part2 tests -- img3](tests_passed/test-passed-2_(pt3).png)
