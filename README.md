@@ -1,3 +1,9 @@
+<style> 
+  img {
+    width: 550px;
+  }
+ </style>
+ 
 # Lab8
 
 ## Name: Kai Tan
