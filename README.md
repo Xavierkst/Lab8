@@ -1,7 +1,7 @@
 # Lab8
 
-## Name: Kai Tan
-## PID: A15719031
+### Name: Kai Tan
+### PID: A15719031
 
 ## Part 1 Tests: 
 
